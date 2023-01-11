@@ -166,10 +166,8 @@
     display: flex;
     float: right;
     width: 493px;
-    height: 523px;
-    /* z-index: 5; */
+    height: 525px;
     margin-left: -350px;
-    /* top: 213px; */
     margin-top: 70px;
     background: #FFFFFF;
     border: 1px solid rgba(174, 178, 203, 0.22);
@@ -219,7 +217,7 @@
     /* position: absolute; */
     width: 141px;
     height: 30px;
-    left: 870px;
+    margin-left: 10px;
     margin-top: -20px;
     margin-bottom: -10px;
     /* font-family: 'Poppins'; */
@@ -236,11 +234,12 @@
 
 #bookcallbtn {
     /* position: absolute; */
-    width: 470px;
+    width: 445px;
     height: 50px;
-    left: 870px;
+    margin-left: 10px;
     top: 651px;
-
+    font-size: 20px;
+    font-weight: 500;
     background: linear-gradient(93.24deg, #444BAB 0%, #3CA5C2 100%);
     border-radius: 6px;
 }
@@ -291,45 +290,69 @@
     /* margin-top: -100px; */
 }
 
-#google{
+#google {
     width: 162px;
     height: 60px;
     margin-left: 105px;
     margin-top: 25px;
 }
 
-#micro{
+#micro {
     width: 162px;
     height: 60px;
     margin-left: 87px;
     margin-top: 10px;
 }
 
-#amazon{
+#amazon {
     width: 162px;
     height: 60px;
     margin-left: 69px;
     margin-top: 25px
 }
 
-#flip{
+#flip {
     width: 142px;
     height: 60px;
     margin-left: 130px;
     margin-top: 15px;
-    
+
 }
 
-#paloalto{
+#paloalto {
     width: 162px;
     height: 30px;
     margin-left: 80px;
     margin-top: 20px;
 }
 
-#razor{
+#razor {
     width: 162px;
     height: 50px;
     margin-left: 70px;
     margin-top: 15px;
+}
+
+.free-learning {
+    width: 302px;
+    height: 56px;
+    margin-left: 123px;
+    margin-top: 60px;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    background: linear-gradient(91.59deg, #444BAB 1.85%, #3CA5C2 99.69%);
+    border-radius: 6px;
+}
+
+.many-more {
+    width: 151px;
+    height: 24px;
+    margin-left: 770px;
+    margin-top: -35px;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #272834;
 }
