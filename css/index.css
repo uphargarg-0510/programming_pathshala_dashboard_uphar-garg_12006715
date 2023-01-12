@@ -730,6 +730,8 @@ font-style: normal; */
     box-shadow: 2px 1000px 1px #fff inset;
     border-radius: 6px;
     background-origin: border-box;
+
+    
 }
 
 .hire {
@@ -889,3 +891,41 @@ color: #444557;
     margin-left: 50px;
     /* background-color: green; */
 }
+
+.success-story
+{
+    position: absolute;
+    width: 200px;
+    height: 30px;
+    left: 650px;
+    top: 3100px;
+/*     
+    font-family: 'Poppins';
+    font-style: normal; */
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 149.8%;
+    color: #444BAB;
+    
+}
+
+.sub-title5{
+    position: absolute;
+    width: 574px;
+    height: 54px;
+    left: 450px;
+    top: 3150px;
+/*     
+    font-family: 'Poppins';
+    font-style: normal; */
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 149.8%;
+    /* identical to box height, or 54px */
+    
+    text-align: center;
+    
+    color: #4F516B;
+    
+}
+
