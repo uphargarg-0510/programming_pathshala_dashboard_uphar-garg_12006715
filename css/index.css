@@ -45,6 +45,7 @@
     color: #4F516B;
     /* color: grey; */
 
+    font-weight: 500;
 }
 
 .sstory {
@@ -58,6 +59,7 @@
     font-size: 14px;
     line-height: 16px;
 
+    font-weight: 500;
     color: #4F516B;
 }
 
@@ -72,6 +74,7 @@
     font-size: 14px;
     line-height: 16px;
 
+    font-weight: 500;
     color: #4F516B;
 }
 
@@ -85,7 +88,7 @@
     /* font-family: 'Gilroy-Medium'; */
     font-size: 14px;
     line-height: 16px;
-
+    font-weight: 500;
     color: #4F516B;
 
 }
@@ -101,6 +104,7 @@
     font-size: 14px;
     line-height: 16px;
 
+    font-weight: 500;
     color: #4F516B;
 }
 
@@ -115,6 +119,7 @@
     font-size: 14px;
     line-height: 16px;
 
+    font-weight: 500;
     color: #4F516B;
 
 }
@@ -130,6 +135,7 @@
     font-size: 16px;
     line-height: 19px;
 
+    font-weight: 600;
     color: #444BAB;
 }
 
@@ -166,7 +172,7 @@
     display: flex;
     float: right;
     width: 493px;
-    height: 525px;
+    height: 530px;
     margin-left: -350px;
     margin-top: 70px;
     background: #FFFFFF;
@@ -177,15 +183,15 @@
 
 #st-in-cr {
     /* position: absolute; */
-    width: 239px;
+    width: 379px;
     height: 21px;
-    margin-left: 130px;
+    margin-left: 60px;
     margin-top: 39px;
 
     /* font-family: 'Poppins'; */
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 149.8%;
     /* identical to box height, or 21px */
 
@@ -196,15 +202,15 @@
 
 #car_con {
     /* position: absolute; */
-    width: 355px;
+    width: 430px;
     height: 36px;
-    margin-left: 68px;
+    margin-left: 28px;
     margin-top: -20px;
 
     /* font-family: 'Poppins'; */
     font-style: normal;
     font-weight: 600;
-    font-size: 24px;
+    font-size: 28px;
     line-height: 149.8%;
     /* identical to box height, or 36px */
 
@@ -237,7 +243,7 @@
     width: 445px;
     height: 50px;
     margin-left: 10px;
-    top: 651px;
+    top: 671px;
     font-size: 20px;
     font-weight: 500;
     background: linear-gradient(93.24deg, #444BAB 0%, #3CA5C2 100%);
@@ -268,8 +274,8 @@
 
 .top-text {
     /* position: absolute; */
-    width: 641px;
-    /* height: 50px; */
+    width: 691px;
+    height: 100px;
     margin-left: 123px;
     /* margin-top: 53px; */
 
@@ -291,28 +297,28 @@
 }
 
 #google {
-    width: 162px;
-    height: 60px;
-    margin-left: 105px;
+    width: 192px;
+    height: 93px;
+    margin-left: 101px;
     margin-top: 25px;
 }
 
 #micro {
-    width: 162px;
-    height: 60px;
-    margin-left: 87px;
+    width: 172px;
+    height: 55px;
+    margin-left: 15px;
     margin-top: 10px;
 }
 
 #amazon {
-    width: 162px;
-    height: 60px;
-    margin-left: 69px;
+    width: 122px;
+    height: 55px;
+    margin-left: 20px;
     margin-top: 25px
 }
 
 #flip {
-    width: 142px;
+    width: 125px;
     height: 60px;
     margin-left: 130px;
     margin-top: 15px;
@@ -320,23 +326,23 @@
 }
 
 #paloalto {
-    width: 162px;
+    width: 152px;
     height: 30px;
-    margin-left: 80px;
+    margin-left: 54px;
     margin-top: 20px;
 }
 
 #razor {
-    width: 162px;
-    height: 50px;
-    margin-left: 70px;
+    width: 112px;
+    height: 35px;
+    margin-left: 40px;
     margin-top: 15px;
 }
 
 .free-learning {
-    width: 302px;
-    height: 56px;
-    margin-left: 123px;
+    width: 330px;
+    height: 52px;
+    margin-left: 130px;
     margin-top: 60px;
     color: white;
     font-weight: 600;
@@ -348,11 +354,215 @@
 .many-more {
     width: 151px;
     height: 24px;
-    margin-left: 770px;
+    margin-left: 650px;
     margin-top: -35px;
     font-style: italic;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
     color: #272834;
+}
+
+#bottom-line {
+    width: 536px;
+    height: 27px;
+    margin-left: 130px;
+    margin-top: 36px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 149.8%;
+
+}
+
+.second-page {
+    position: absolute;
+    width: 1518px;
+    height: 78px;
+    left: 0px;
+    top: 858px;
+
+    background: linear-gradient(180deg, #B0DEE7 -35.78%, rgba(176, 222, 231, 0) 174.51%);
+}
+
+#second-title {
+    position: absolute;
+    width: 606px;
+    height: 27px;
+    margin-left: 517px;
+    margin-top: 23px;
+
+    /* font-family: 'Poppins';
+font-style: normal; */
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 149.8%;
+    /* identical to box height, or 27px */
+
+
+    color: #263238;
+
+}
+
+.learning-path {
+    position: absolute;
+    width: 232px;
+    height: 45px;
+    margin-left: 654px;
+    margin-top: 157px;
+
+    /* font-family: 'Poppins';
+font-style: normal; */
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 149.8%;
+    /* identical to box height, or 45px */
+
+
+    color: #4F516B;
+}
+
+.second-tag {
+    width: 782px;
+    height: 54px;
+    margin-left: 361px;
+    margin-top: 230px;
+
+    /* font-family: 'Poppins';
+font-style: normal; */
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 149.8%;
+    /* or 27px */
+
+    text-align: center;
+
+    color: #505050;
+}
+
+.three-cards {
+    display: flex;
+    float: left;
+    /* margin-left: 100px; */
+}
+
+.sub-card {
+    margin-top: 80px;
+    margin-left: 130px;
+}
+
+#sub-card-title1 {
+    width: 294px;
+    height: 72px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 149.8%;
+    color: #4F516B;
+}
+
+#sub-card-title2 {
+    width: 294px;
+    height: 72px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 149.8%;
+    color: #4F516B;
+}
+
+#sub-card-title3 {
+    width: 294px;
+    height: 72px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 149.8%;
+    color: #4F516B;
+}
+
+#sub-card-para1 {
+    width: 302px;
+    height: 72px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #616161;
+
+}
+
+#sub-card-para2 {
+    /* position: absolute; */
+    width: 302px;
+    height: 72px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #616161;
+
+}
+
+#sub-card-para3 {
+    width: 292px;
+    height: 72px;
+
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #616161;
+
+}
+
+.knowmore
+{
+    text-decoration: none;
+    width: 117px;
+height: 22px;
+/* left: 145px;
+top: 1704px;
+
+font-family: 'Poppins';
+font-style: normal; */
+font-weight: 600;
+font-size: 20px;
+line-height: 149.8%;
+/* or 30px */
+
+
+color: #444BAB;
+
+}
+
+.impact
+{
+    width: 116px;
+height: 30px;
+margin-left: 700px;
+margin-top: 658px;
+/* 
+font-family: 'Poppins';
+font-style: normal; */
+font-weight: 600;
+font-size: 20px;
+line-height: 149.8%;
+/* identical to box height, or 30px */
+
+text-align: center;
+
+color: #444BAB;
+}
+
+.sub-title3
+{
+    width: 588px;
+height: 44px;
+margin-left: 472px;
+margin-top: 16px;
+
+/* font-family: 'Poppins';
+font-style: normal; */
+font-weight: 600;
+font-size: 36px;
+line-height: 149.8%;
+/* or 54px */
+
+text-align: center;
+
+color: #444557;
 }
