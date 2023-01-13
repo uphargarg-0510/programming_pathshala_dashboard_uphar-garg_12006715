@@ -726,12 +726,12 @@ font-style: normal; */
     left: 667px;
     top: 2719px;
     border: solid 3px transparent;
-    background-image:  linear-gradient(180deg, #3E8EBC, #444BAB);
+    background-image: linear-gradient(180deg, #3E8EBC, #444BAB);
     box-shadow: 2px 1000px 1px #fff inset;
     border-radius: 6px;
     background-origin: border-box;
 
-    
+
 }
 
 .hire {
@@ -743,15 +743,14 @@ font-style: normal; */
     margin-top: 80px;
 }
 
-.alumni
-{
+.alumni {
     margin-top: 300px;
     margin-left: 160px;
     width: 40%;
     /* background-color: green; */
 }
 
-#alumni-1{
+#alumni-1 {
     width: 244px;
     height: 30px;
     font-weight: 600;
@@ -760,7 +759,7 @@ font-style: normal; */
     color: #444BAB;
 }
 
-#alumni-2{
+#alumni-2 {
     width: 133px;
     height: 158px;
     font-weight: 600;
@@ -769,163 +768,231 @@ font-style: normal; */
     color: #4F516B;
 }
 
-#alumni-3{
+#alumni-3 {
 
     width: 611px;
-height: 186px;
-font-weight: 400;
-font-size: 20px;
-line-height: 149.8%;
-/* or 30px */
+    height: 186px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 149.8%;
+    /* or 30px */
 
 
-color: #444557;
+    color: #444557;
 }
 
-.divpic1{
+.divpic1 {
     width: 167px;
     height: 90px;
     margin-left: 10px;
 }
 
-.divpic2{
+.divpic2 {
     width: 167px;
     height: 80px;
     margin-top: 5px;
     margin-left: 20px;
 }
 
-.divpic3{
+.divpic3 {
     width: 167px;
     height: 60px;
     margin-top: 5px;
     margin-left: 55px;
 }
 
-.divpic4{
+.divpic4 {
     width: 97px;
     height: 30px;
     margin-top: 25px;
     margin-left: 45px;
 }
 
-.divpic5{
+.divpic5 {
     width: 167px;
     height: 40px;
     margin-top: 18px;
     margin-left: 50px;
 }
 
-.divpic6{
+.divpic6 {
     width: 157px;
     height: 50px;
     margin-top: 12px;
     margin-left: 50px;
 }
 
-.divpic7{
+.divpic7 {
     width: 100px;
     height: 50px;
     margin-top: 35px;
     margin-left: 45px;
 }
 
-.divpic8{
+.divpic8 {
     width: 177px;
     height: 50px;
     margin-top: 35px;
     margin-left: 50px;
 }
 
-.divpic9{
+.divpic9 {
     width: 137px;
     height: 50px;
     margin-top: 35px;
     margin-left: 40px;
 }
 
-.divpic10{
+.divpic10 {
     width: 117px;
     height: 90px;
     margin-top: 30px;
     margin-left: 35px;
 }
 
-.divpic11{
+.divpic11 {
     width: 177px;
     height: 100px;
     margin-top: 30px;
     margin-left: 40px;
 }
 
-.divpic12{
+.divpic12 {
     width: 140px;
     height: 50px;
-    margin-top:50px;
+    margin-top: 50px;
     margin-left: 40px;
 }
 
-.divpic13{
+.divpic13 {
     width: 120px;
     height: 70px;
     margin-top: 15px;
     margin-left: 40px;
 }
 
-.divpic14{
+.divpic14 {
     width: 167px;
     height: 50px;
     margin-top: 25px;
     margin-left: 40px;
 }
 
-.divpic15{
+.divpic15 {
     width: 117px;
     height: 80px;
     margin-top: 5px;
     margin-left: 35px;
 }
-.alumnicom
-{
+
+.alumnicom {
     margin-top: 280px;
     margin-left: 50px;
     /* background-color: green; */
 }
 
-.success-story
-{
+.success-story {
     position: absolute;
     width: 200px;
     height: 30px;
     left: 650px;
     top: 3100px;
-/*     
+    /*     
     font-family: 'Poppins';
     font-style: normal; */
     font-weight: 600;
     font-size: 20px;
     line-height: 149.8%;
     color: #444BAB;
-    
+
 }
 
-.sub-title5{
+.sub-title5 {
     position: absolute;
     width: 574px;
     height: 54px;
     left: 450px;
     top: 3150px;
-/*     
+    /*     
     font-family: 'Poppins';
     font-style: normal; */
     font-weight: 600;
     font-size: 36px;
     line-height: 149.8%;
     /* identical to box height, or 54px */
-    
+
     text-align: center;
-    
+
     color: #4F516B;
-    
+
 }
 
+.leadership-team {
+    width: 218px;
+    height: 30px;
+    /* left: 607px; */
+    margin-top: 1596px;
+
+    /* font-family: 'Poppins';
+    font-style: normal; */
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 149.8%;
+    /* identical to box height, or 30px */
+
+    text-align: center;
+
+    color: #444BAB;
+}
+
+.sub-title6 {
+    width: 572px;
+    height: 54px;
+    /* left: 431px; */
+    margin-top: 20px;
+    /*     
+    font-family: 'Poppins';
+    font-style: normal; */
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 149.8%;
+    /* identical to box height, or 54px */
+
+    text-align: center;
+
+    color: #4F516B;
+}
+
+.sub-part-6 {
+    display: flex;
+    float: left;
+    width: 1518px;
+    height: 755px;
+    left: 0px;
+    margin-top: 78px;
+
+    background: linear-gradient(96.55deg, rgba(62, 142, 188, 0.62) 0%, rgba(63, 126, 184, 0.536146) 30.88%, rgba(65, 106, 179, 0.429948) 84.64%, rgba(67, 81, 173, 0.301779) 99.02%, rgba(68, 75, 171, 0.67) 102.21%);
+
+}
+
+.sub-card-1 {
+    box-sizing: border-box;
+
+    /* position: absolute; */
+    width: 368px;
+    height: 552px;
+    margin-left: 102px;
+    margin-top: 135px;
+
+    background: #FFFFFF;
+    border: 1px solid rgba(132, 144, 199, 0.35);
+}
+
+.pics
+{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-top: -70px;
+    margin-left: 105px;
+}
